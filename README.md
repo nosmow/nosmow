@@ -51,12 +51,15 @@ namespace Nosmow
 <table align="center">
 <tr border="none">
  <td width="50%" align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nosmow&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="nosmow"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nosmow&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=20" alt="nosmow"/>
  </td>
 <td width="50%" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nosmow&theme=react&show_icons=true&count_private=true" alt="nosmow"/>
   <br></br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nosmow&theme=react&hide_border=false" alt="nosmow"/> 
+  <br></br>
+   <img src="https://github-contributor-stats.vercel.app/api?username=nosmow&limit=5&theme=react&combine_all_yearly_contributions=true" alt="nosmow"/> 
 </td>
 </tr>
 </table>
+
