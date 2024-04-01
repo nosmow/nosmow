@@ -60,10 +60,16 @@ namespace Nosmow
 
 ### 📈 &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/nosmow">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nosmow&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nosmow&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div align="center">
+  <table>
+   <tbody>
+    <td>
+      <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nosmow&show_icons=true&locale=en&layout=compact&theme=algolia" alt="nosmow" /></p>
+    </td>
+    <td>
+      <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nosmow&show_icons=true&locale=en&theme=algolia" alt="nosmow" /></p>
+      <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nosmow&theme=algolia" alt="nosmow" /></p>
+    </td>
+   </tbody>
+ </table>
+</div>
