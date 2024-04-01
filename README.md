@@ -24,7 +24,7 @@
 
 ## IDEs and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode,git,graphql,postman)](https://skillicons.dev)
 
 <br/>
 <br/>
