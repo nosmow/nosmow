@@ -48,7 +48,7 @@ namespace Nosmow
 
 ## GitHub Analytics
 
-<table align="center">
+<table align="center" width="100%">
 <tr border="none">
  <td width="50%" align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nosmow&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=20" alt="nosmow"/>
@@ -57,9 +57,23 @@ namespace Nosmow
   <img src="https://github-readme-stats.vercel.app/api?username=nosmow&theme=react&show_icons=true&count_private=true" alt="nosmow"/>
   <br></br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nosmow&theme=react&hide_border=false" alt="nosmow"/> 
-  <br></br>
-   <img src="https://github-contributor-stats.vercel.app/api?username=nosmow&limit=5&theme=react&combine_all_yearly_contributions=true" alt="nosmow"/> 
 </td>
 </tr>
 </table>
+
+<br></br>
+
+ ## Top Contributed Repo
+
+<table align="center" width="100%">
+<tr border="none">
+ <td width="50%" align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=nosmow&limit=5&theme=react&combine_all_yearly_contributions=true" alt="nosmow"/>   
+ </td>
+ <td width="50%" align="center">
+  <img width="50%" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" alt="nosmow"/>
+ </td>
+</tr>
+</table>
+
 
