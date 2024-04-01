@@ -58,18 +58,17 @@ namespace Nosmow
 </div>
 <br>
 
-### 📈 &nbsp;GitHub Analytics
+## GitHub Analytics
 
-<div align="center">
-  <table>
-   <tbody>
-    <td>
-      <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nosmow&show_icons=true&locale=en&layout=compact&theme=algolia" alt="nosmow" /></p>
-    </td>
-    <td>
-      <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nosmow&show_icons=true&locale=en&theme=algolia" alt="nosmow" /></p>
-      <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nosmow&theme=algolia" alt="nosmow" /></p>
-    </td>
-   </tbody>
- </table>
-</div>
+<table align="center">
+<tr border="none">
+ <td width="50%" align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nosmow&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="nosmow"/>
+ </td>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nosmow&theme=react&show_icons=true&count_private=true" alt="nosmow"/>
+  <br></br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nosmow&theme=react&hide_border=false" alt="nosmow"/> 
+</td>
+</tr>
+</table>
