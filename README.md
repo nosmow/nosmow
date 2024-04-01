@@ -4,7 +4,7 @@
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfkLiV7O92HlyFfql6BPMe8U3HdmioMAcOBf85MVmoX-aD3SAMtAKMT2QJr45ytXR74sJ4fxgT18PH3RUueJt-AyCmklMh2IimmQG0AE8K9UQpN8puuk-43k4zD7aNI6HfAAGHY51s1idBc0Bv1T46q_JaYjiMUU7zTDFlQGXm7ZmM8wxy2wZ1LdXxvTw/s16000/Banner%20para%20Linkedin%20Analista%20Sistemas%20Moderno%20Negro%20(1).gif"/>
 
 <!-- [![General badge](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=badge&logoColor=black)](https://nosmow.com/)-->
- [![General badge](https://www.linkedin.com/in/nosmow/)
+ [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nosmow/)
  [![General badge](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nosmow_)
 
 ## Sobre mí
