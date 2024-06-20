@@ -34,10 +34,10 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-		void Start() 
-		{
-			Debug.Log("Game Developer Mode On : Time to Create •--[• - •]--•");
-		}
+	void Start() 
+	{
+		Debug.Log("Game Developer Mode On : Time to Create •--[• - •]--•");
+	}
 }
 ```
 
