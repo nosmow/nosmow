@@ -1,44 +1,43 @@
 <div align="center">
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/nosmow/">Nosmow</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/dainercortes/">Nosmow</a> 👋</h1>
 </div>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfkLiV7O92HlyFfql6BPMe8U3HdmioMAcOBf85MVmoX-aD3SAMtAKMT2QJr45ytXR74sJ4fxgT18PH3RUueJt-AyCmklMh2IimmQG0AE8K9UQpN8puuk-43k4zD7aNI6HfAAGHY51s1idBc0Bv1T46q_JaYjiMUU7zTDFlQGXm7ZmM8wxy2wZ1LdXxvTw/s16000/Banner%20para%20Linkedin%20Analista%20Sistemas%20Moderno%20Negro%20(1).gif"/>
+<img src="https://github.com/nosmow/nosmow/blob/main/img/_001.png?raw=true"/>
 
 <!-- [![General badge](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=badge&logoColor=black)](https://nosmow.com/)-->
- [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nosmow/)
- [![General badge](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nosmow_)
+ [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dainercortes/)
+ [![General badge](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/_nosmow)
 
 ## About me
 
 - ⭐ Self-taught.
-- ☕ Software Developer.
+- ☕ Game Developer.
 - 💻 Freelancer.
-- 🧑‍🎓 Systems Engineering Student | Eighth semester.
+- 🧑‍🎓 Systems Engineering Student | Ninth semester.
 - 🧑‍🏫 Content creator.
 <br>
 
 ## Languages and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,mysql,js,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,mysql)](https://skillicons.dev)
 
 <br/>
 
 ## IDEs and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode,git,graphql,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,visualstudio,vscode,idea,git,github)](https://skillicons.dev)
 
 <br/>
 <br/>
 
 ```csharp
-namespace Nosmow
+using UnityEngine;
+
+public class PlayerController : MonoBehaviour
 {
-    public class Programmer
-    {
-        public string IsProgram(bool awake)
-        {
-            return awake ? "I am programming" : "I'm dreaming as I program";
-        }
-    }
+		void Start() 
+		{
+			Debug.Log("Game Developer Mode On : Time to Create •--[• - •]--•");
+		}
 }
 ```
 
@@ -75,5 +74,3 @@ namespace Nosmow
  </td>
 </tr>
 </table>
-
-
