@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/dainercortes/">Nosmow</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/dainercortes/">Dainer Cortés</a> 👋</h1>
 </div>
 <img src="https://github.com/nosmow/nosmow/blob/main/img/_001.png?raw=true"/>
 
