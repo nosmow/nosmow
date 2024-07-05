@@ -36,7 +36,7 @@ public class PlayerController : MonoBehaviour
 {
 	void Start() 
 	{
-		Debug.Log("Game Developer Mode On");
+		Debug.Log("Game developer mode on");
 	}
 }
 ```
