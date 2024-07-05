@@ -36,7 +36,7 @@ public class PlayerController : MonoBehaviour
 {
 	void Start() 
 	{
-		Debug.Log("Game Developer Mode On : Time to Create •--[• - •]--•");
+		Debug.Log("Game Developer Mode On");
 	}
 }
 ```
