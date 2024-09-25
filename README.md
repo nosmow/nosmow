@@ -10,8 +10,8 @@
 ## About me
 
 - ⭐ Self-taught.
+- 💻 Software Developer.
 - ☕ Game Developer.
-- 💻 Freelancer.
 - 🧑‍🎓 Systems Engineering Student | Ninth semester.
 - 🧑‍🏫 Content creator.
 <br>
@@ -36,7 +36,7 @@ public class PlayerController : MonoBehaviour
 {
 	void Start() 
 	{
-		Debug.Log("Game developer mode on");
+		Debug.Log("Developer mode on");
 	}
 }
 ```
