@@ -1,11 +1,13 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/dainercortes/">Dainer Cortés</a> 👋</h1>
-</div>
-<img src="https://github.com/nosmow/nosmow/blob/main/img/_002.png?raw=true"/>
+
+
 
 <!-- [![General badge](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=badge&logoColor=black)](https://nosmow.com/)-->
  [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dainercortes/)
  [![General badge](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/_nosmow)
+
+</div>
 
 ## About me
 
