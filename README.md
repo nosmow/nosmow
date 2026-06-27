@@ -14,19 +14,18 @@
 - ⭐ Self-taught.
 - 💻 Software Developer.
 - ☕ Game Developer.
-- 🧑‍🎓 Systems Engineering Student | Ninth semester.
-- 🧑‍🏫 Content creator.
+- 🧑‍🎓 Systems Engineer.
 <br>
 
 ## Languages and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgresql)](https://skillicons.dev)
 
 <br/>
 
 ## IDEs and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=unity,visualstudio,vscode,idea,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,visualstudio,idea,git,github)](https://skillicons.dev)
 
 <br/>
 <br/>
@@ -64,7 +63,7 @@ public class PlayerController : MonoBehaviour
 
 <br></br>
 
- ## Top Contributed Repo
+ <!--## Top Contributed Repo
 
 <table align="center" width="100%">
 <tr border="none">
@@ -75,4 +74,4 @@ public class PlayerController : MonoBehaviour
   <img width="50%" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" alt="nosmow"/>
  </td>
 </tr>
-</table>
+</table>-->
