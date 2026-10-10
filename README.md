@@ -1,16 +1,77 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/dainercortes/">Dainer Cortés</a> 👋</h1>
 
-<!--
-**nosmow/nosmow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- [![General badge](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=badge&logoColor=black)](https://nosmow.com/)-->
+ [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dainercortes/)
+ [![General badge](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/_nosmow)
+
+</div>
+
+## About me
+
+- ⭐ Self-taught.
+- 💻 Software Developer.
+- ☕ Game Developer.
+- 🧑‍🎓 Systems Engineer.
+<br>
+
+## Languages and Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgresql)](https://skillicons.dev)
+
+<br/>
+
+## IDEs and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=unity,visualstudio,idea,git,github)](https://skillicons.dev)
+
+<br/>
+<br/>
+
+```csharp
+using UnityEngine;
+
+public class PlayerController : MonoBehaviour
+{
+	void Start() 
+	{
+		Debug.Log("Developer mode on");
+	}
+}
+```
+
+<br/>                                                                         
+</div>
+<br>
+
+## GitHub Analytics
+
+<table align="center" width="100%">
+<tr border="none">
+ <td width="50%" align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nosmow&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=20" alt="nosmow"/>
+ </td>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nosmow&theme=react&show_icons=true&count_private=true" alt="nosmow"/>
+  <br></br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nosmow&theme=react&hide_border=false" alt="nosmow"/> 
+</td>
+</tr>
+</table>
+
+<br></br>
+
+ <!--## Top Contributed Repo
+
+<table align="center" width="100%">
+<tr border="none">
+ <td width="50%" align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=nosmow&limit=5&theme=react&combine_all_yearly_contributions=true" alt="nosmow"/>   
+ </td>
+ <td width="50%" align="center">
+  <img width="50%" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" alt="nosmow"/>
+ </td>
+</tr>
+</table>-->
