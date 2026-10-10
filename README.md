@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/dainercortes/">Dainer Cortés</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/dainercortes/">Nosmow</a> 👋</h1>
 
 
 
@@ -13,19 +13,18 @@
 
 - ⭐ Self-taught.
 - 💻 Software Developer.
-- ☕ Game Developer.
 - 🧑‍🎓 Systems Engineer.
 <br>
 
 ## Languages and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js)](https://skillicons.dev)
 
 <br/>
 
 ## IDEs and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=unity,visualstudio,idea,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,idea,webstorm,vscode,git,)](https://skillicons.dev)
 
 <br/>
 <br/>
